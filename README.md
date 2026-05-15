@@ -1,5 +1,5 @@
 https://github.com/user-attachments/assets/e84699fd-5456-420f-9b1d-ef6c07bb6387
-# 📱 App de Gestión de Cobranza (Cobranza San José)
+# 📱 App de Gestión de Cobranza (Cobranza Movil)
 
 ![Flutter Version](https://img.shields.io/badge/Flutter-SDK-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
